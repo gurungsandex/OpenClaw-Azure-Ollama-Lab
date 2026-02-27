@@ -5,7 +5,7 @@ This guide walks through how I installed OpenClaw on a Microsoft Azure Virtual M
 The goal of this lab was simple:
 
 - Use Azure free credits
-- Deploy OpenClaw in the cloud
+- Deploy OpenClaw
 - Run a local LLM with Ollama
 - Avoid paid APIs
 
