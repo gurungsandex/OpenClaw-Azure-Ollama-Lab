@@ -15,10 +15,10 @@ If you're learning cloud, AI, or just want to experiment without spending money,
 
 ## What is OpenClaw?
 
-OpenClaw is an open-source AI automation platform that allows you to connect AI models to messaging platforms and build intelligent workflows.
+OpenClaw (formerly Clawdbot/Moltbot) is an open-source, autonomous AI agent that runs locally on your machine. It acts as a personal assistant, interacting with applications, reading/writing files, and automating tasks via messaging platforms like Discord or Telegram.
 You can use it for:  
   - Building AI chatbots
-  - Connecting to Telegram or other platforms
+  - Connecting to messaging platforms
   - Testing LLM integrations
   - Automation experiments
   - Running AI in your own controlled lab and many more....
@@ -128,6 +128,7 @@ Test the chatbot.
     - Random prompts
     - Automation ideas
     - Even casual conversation
+  
 Yes, you can even flirt with it, just don’t fall in love 😄
 <img width="1025" height="495" alt="Screenshot 2026-02-26 at 7 20 03 PM" src="https://github.com/user-attachments/assets/be5e9855-e62d-4e1f-9b66-284336178dbf" />
 
